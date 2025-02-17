@@ -15,5 +15,12 @@ h1, p {
     border: 2px black solid;
     border-radius: 5px;
     border-left: 0px;
+    animation: myAnimation 5s;
+
   
+}
+
+@keyframe myAnimation{
+    from{right:0px}
+    to{left:0px}
 }
