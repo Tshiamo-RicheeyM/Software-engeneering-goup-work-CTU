@@ -20,7 +20,7 @@ h1, p {
   
 }
 
-@keyframe myAnimation{
+@keyframes myAnimation{
     from{right:0px}
     to{left:0px}
 }
