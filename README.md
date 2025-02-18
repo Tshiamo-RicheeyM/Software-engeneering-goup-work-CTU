@@ -26,3 +26,4 @@ Made by *Tshiamo, Kitso, Mokgadi, Tshimologo, Zama, Lwazi and Jason* for a stude
 
 ## *License*  
 Feel free to use or tweak this for your own projects. Just don’t try to sell it and call it yours, lol.
+Danko
